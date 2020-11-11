@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Shendy Pratama Junianto',
   tagline: '',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://shendypj.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'shendy', // Usually your GitHub org/user name.
+  projectName: 'shendypj.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Shendy Pratama Junianto',
